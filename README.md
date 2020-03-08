@@ -61,16 +61,3 @@ python src/sas2csv.py -d {path of ASC file} -l {path of corresponding SAS load f
 #### Model training, evaluation and predictor analysis
 
 - nbs/Model_Development.ipynb
-
-## Folders information:
-
-folder         |  description
---------------|--------------------------------------------------------------------------------------------
-nbs           |  jupyter notebooks
-src           |  python codes
-<<<<<<< HEAD
-saved_models  |  names of all selected variables
-=======
-saved_models  |  all selected variables
-tests         |  test results
->>>>>>> 6fd170f1a02aef9026edabfbd72b9218c902fdc9
