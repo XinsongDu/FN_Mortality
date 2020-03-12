@@ -1,6 +1,6 @@
 ## Predicting In-hospital Mortality of Patients with Febrile Neutropenia Using Machine Learning Models (Manuscript in preparation)
 
-Several commonly used machine leanring models, as well as deep neural network, were built upon [Healthcare Cost and Utilization Project (HCUP)’s National Inpatient Sample (NIS)](https://www.hcup-us.ahrq.gov/db/nation/nis/nisdbdocumentation.jsp) data to predict the mortality of adult cancer febrile neutropenia admissions. Gradient boosting tree and ridge logistic regression achieved areas under the receiver operating characteristic (AUROC) above 90%.
+Several commonly used machine leanring models, as well as deep neural network, were built upon [Healthcare Cost and Utilization Project (HCUP)’s National Inpatient Sample (NIS)](https://www.hcup-us.ahrq.gov/db/nation/nis/nisdbdocumentation.jsp) data to predict the mortality of adult cancer febrile neutropenia admissions. Machine learning models achieved areas under the receiver operating characteristic (AUROC) above 90%.
 
 Variable importance analysis was also conducted with ridge logistic regression and gradient boosting tree. The variable importance analysis results consistent with previous studies.
 
