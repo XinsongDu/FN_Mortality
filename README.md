@@ -4,8 +4,8 @@ Several commonly used machine leanring models, as well as deep neural network, w
 
 Variable importance analysis was also conducted with ridge logistic regression and gradient boosting tree. The variable importance analysis results consistent with previous studies.
 
-> You are welcome to re-use any code from this repo for your project, please cite this paper: https://www.sciencedirect.com/science/article/pii/S1386505619314078?via%3Dihub.
-> Please refer to our [wiki](https://github.com/XinsongDu/FN_Mortality/wiki) for more information regarding how to use our code to do different things related to HCUP data
+> - You are welcome to re-use any code from this repo for your project, please cite this paper: https://www.sciencedirect.com/science/article/pii/S1386505619314078?via%3Dihub.
+> - Please refer to our [wiki](https://github.com/XinsongDu/FN_Mortality/wiki) for more information regarding how to use our code to do different things related to HCUP data
 
 ---
 
