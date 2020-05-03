@@ -65,4 +65,4 @@ python src/sas2csv.py -d {path of ASC file} -l {path of corresponding SAS load f
 
 ## More
 
-- If there is any question, you are very welcome to post your question in [issue tracker](https://github.com/XinsongDu/FN_Mortality/issues)
+- Please post your question in [issue tracker](https://github.com/XinsongDu/FN_Mortality/issues)
