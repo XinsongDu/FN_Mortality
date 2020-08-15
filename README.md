@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/XinsongDu/FN_Mortality.svg)](http://hits.dwyl.com/XinsongDu/FN_Mortality)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXinsongDu%2FFN_Mortality)](https://hits.seeyoufarm.com)
 
 ## Predicting In-hospital Mortality of Patients with Febrile Neutropenia Using Machine Learning Models (Manuscript in preparation)
 
