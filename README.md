@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXinsongDu%2FFN_Mortality)](https://hits.seeyoufarm.com)
 
-## Predicting In-hospital Mortality of Patients with Febrile Neutropenia Using Machine Learning Models (Manuscript in preparation)
+## Predicting In-hospital Mortality of Patients with Febrile Neutropenia Using Machine Learning Models
 
 Several commonly used machine leanring models, as well as deep neural network, were built upon [Healthcare Cost and Utilization Project (HCUP)’s National Inpatient Sample (NIS)](https://www.hcup-us.ahrq.gov/db/nation/nis/nisdbdocumentation.jsp) data to predict the mortality of adult cancer febrile neutropenia admissions. Machine learning models achieved areas under the receiver operating characteristic (AUROC) above 90%.
 
